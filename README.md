@@ -1,0 +1,2 @@
+# ResourceTagging
+Professional ResourceTagging framework with ResourceTagging-optimized intelligent-automation and enterprise resourcetagging-optimization capabilities
